@@ -6,7 +6,7 @@ import ProductDetail from './src/screens/ProductDetail';
 export default function App() {
   return (
     <NavigationContainer>
-      <ProductDetail />
+      <AnglesList />
     </NavigationContainer>
   );
 }
